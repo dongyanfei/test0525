@@ -11,5 +11,6 @@ package com.salt.beans;
 
 public class Person {
 
+    private int id;
     private String name;
 }
